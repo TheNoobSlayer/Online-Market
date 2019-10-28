@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\client",
+    "\\client\\assets\\images",
+    "\\client\\product",
+    "\\client\\user",
+    "\\server",
+    "\\server\\controllers",
+    "\\server\\models"
+  ],
+  "SelectedNode": "\\client\\product\\DeleteProduct.js",
+  "PreviewInSolutionExplorer": false
+}
